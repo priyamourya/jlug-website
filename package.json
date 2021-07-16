@@ -1,0 +1,24 @@
+{
+  "name": "jlugfinal",
+  "version": "1.0.0",
+  "description": "This is jlugwebsite",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jlug",
+    "website",
+    "jec",
+    "jabalpur"
+  ],
+  "author": "Priya Mourya & Shreya Nema",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "jquery": "^3.6.0",
+    "mongoose": "^5.13.2",
+    "path": "^0.12.7"
+  }
+}
